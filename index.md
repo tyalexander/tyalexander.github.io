@@ -1,14 +1,16 @@
-## Research
+## About Me
+
+I explore **neuroscience** and **medicine** through a biophysical and mathematical lens. I am fascinated by the brain and am humbled by the opportunity to tackle various questions about neuroscience – from mysteries as small as ion-channel signaling, to those on larger-scales, such as data analysis to understand factors associated with favorable neurosurgical outcomes.
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Voltage-gated ion channels]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Artificial intelligence and machine learning for Parkinson's](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +19,11 @@
 
 ---
 
-### Category Name 2
+### Interestes
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Jazz/Blues Guitar](http://example.com/)
+- [Running](http://example.com/)
+- [Reading](http://example.com/)
 
 ---
 
