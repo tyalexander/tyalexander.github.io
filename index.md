@@ -22,8 +22,6 @@ Manuscript in progress
 ## Past Publications
 [Tyler's Publications](https://scholar.google.com/citations?user=kLU6xeAAAAAJ&hl=en&oi=sra)
 
----
-
 ## Interests
 
 - [Jazz/Blues](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae?si=XwR9USJ1RX28SqNbbyshgg)
