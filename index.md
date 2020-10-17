@@ -22,16 +22,6 @@ Manuscript in progress
 ## Past Publications
 [Tyler's Publications](https://scholar.google.com/citations?user=kLU6xeAAAAAJ&hl=en&oi=sra)
 
-## Honors and Awards
-- PhD Award for Excellence in Interprofessional Education and Collaborative Practice, 2020
-- Excellence in Social Impact Award, University of Pennsylvania, 2018
-- Honors in NPLD Practicum, University of Pennsylvania, 2018
-- Philadelphia Social Innovation Award, Finalist, 2017
-- Anti-Poverty Solutions Summit, Winner, 2016
-- Project Pericles Scholarship Seed Funding Award, Swarthmore College, 2015
-- Foundation Grant Recipient, Swarthmore College, 2014
-- Lang Opportunity Scholarship, Swarthmore College, 2013-2017
-
 
 ## Interests
 
