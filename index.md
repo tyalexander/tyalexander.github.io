@@ -24,19 +24,6 @@ Manuscript in progress
 
 ---
 
-## Education
-
-#### Thomas Jefferson University
-MD/PhD Neuroscience, (Anticipated 2026)
-
-#### University of Pennsylvania
-MS in Nonprofit and Nongovernmental Leadership, Class of 2018
-
-#### Swarthmore College
-BS Special Major in Astrophysics, Minor in Chemistry, Class of 2017
-
----
-
 ## Interests
 
 - [Jazz/Blues](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae?si=XwR9USJ1RX28SqNbbyshgg)
