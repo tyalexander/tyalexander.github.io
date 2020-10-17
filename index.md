@@ -7,7 +7,7 @@ I explore **neuroscience** and **medicine** through a biophysical and mathematic
 ### Current Projects
 
 #### Exploration of voltage gated potassium channels in a neuropathic pain model
-Alexander, T. D. (2020). Phosphorylation of a K channel by PKC regulates the excitability of primary sensory neurons and pain signaling Let us know how access to this document benefits you. 1–3.
+Alexander, Tyler D.; Zhi, Lianteng; Muqeem, Tanziyah; and Covarrubias, Manuel, "Phosphorylation of a K channel by PKC regulates the excitability of primary sensory neurons and pain signaling" (2020). Phase 1. Paper 102.
 
 ---
 #### Machine learning in a Parkinson's disease model – predicting quality of life metrics
