@@ -4,29 +4,25 @@ I explore **neuroscience** and **medicine** through a biophysical and mathematic
 
 ---
 
-### Current Projects
+## Current Projects
 
-#### Exploration of voltage gated potassium channels in a neuropathic pain model
+#### Characterization of voltage gated potassium channels in a spinal-cord-injury-induced neuropathic pain model
 Alexander, Tyler D.; Zhi, Lianteng; Muqeem, Tanziyah; and Covarrubias, Manuel, "Phosphorylation of a K channel by PKC regulates the excitability of primary sensory neurons and pain signaling" (2020). Phase 1. Paper 102.
 
 ---
-#### Machine learning in a Parkinson's disease model – predicting quality of life metrics
+#### Machine learning applications to Parkinson's disease – predicting quality of life metrics
 Manuscript in progress
 
 ---
-#### Artificial intelligence in pituitary adenoma
+#### Applications of artificial intelligence to management of pituitary adenoma
 Manuscript in progress
 
 ---
-[Project 4 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-#### Past Publications
+## Past Publications
 [Tyler's Publications](https://scholar.google.com/citations?user=kLU6xeAAAAAJ&hl=en&oi=sra)
 
-### Interests
+## Interests
 
 - [Jazz/Blues](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae?si=XwR9USJ1RX28SqNbbyshgg)
 - [Running and Biking](https://www.strava.com/athletes/42440063)
