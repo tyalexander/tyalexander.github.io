@@ -1,6 +1,6 @@
 ## About Me
 
-I explore **neuroscience** and **medicine** through a biophysical and mathematical lens. I am fascinated by the brain and am humbled by the opportunity to tackle various questions about neuroscience – from mysteries as small as ion-channel signaling, to those on larger-scales, such as data analysis to understand factors associated with favorable neurosurgical outcomes.
+I explore **neuroscience** and **medicine** through a biophysical and mathematical lens. I am fascinated by the brain and am humbled by the opportunity to tackle questions in neuroscience – from mysteries as small as ion-channel signaling, to those on larger-scales, such as data analysis to understand factors associated with favorable neurosurgical outcomes.
 
 ---
 
