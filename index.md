@@ -6,8 +6,8 @@ I explore **neuroscience** and **medicine** through a biophysical and mathematic
 
 ### Projects
 
-[Voltage-gated ion channels]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Exploration of voltage gated potassium channels in a neuropathic pain model
+Alexander, T. D. (2020). Phosphorylation of a K channel by PKC regulates the excitability of primary sensory neurons and pain signaling Let us know how access to this document benefits you. 1–3.
 
 ---
 [Artificial intelligence and machine learning for Parkinson's](/pdf/sample_presentation.pdf)
