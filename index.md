@@ -28,7 +28,7 @@ Manuscript in progress
 
 ### Interests
 
-- [Jazz/Blues](https://www.youtube.com/watch?v=KPgEoDt_Duc)
+- [Jazz/Blues](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae?si=XwR9USJ1RX28SqNbbyshgg)
 - [Running and Biking](https://www.strava.com/athletes/42440063)
 - Reading
 
