@@ -39,11 +39,10 @@ Manuscript in progress
 - [Running and Biking](https://www.strava.com/athletes/42440063)
 - Reading
 
+
 ---
-
-
-
-
+#### Contact
+tyler(dot)alexander(at)students.jefferson.edu
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
