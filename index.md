@@ -23,15 +23,14 @@ Manuscript in progress
 
 ---
 
-#### Past Publication
+#### Past Publications
 [Tyler's Publications](https://scholar.google.com/citations?user=kLU6xeAAAAAJ&hl=en&oi=sra)
 
 ### Interests
 
-- [Jazz/Blues](http://example.com/)
-- <iframe src="https://open.spotify.com/embed/album/0I8vpSE1bSmysN2PhmHoQg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-- [Running](http://example.com/)
-- [Reading](http://example.com/)
+- [Jazz/Blues](https://www.youtube.com/watch?v=KPgEoDt_Duc)
+- [Running and Biking](https://www.strava.com/athletes/42440063)
+- Reading
 
 ---
 
