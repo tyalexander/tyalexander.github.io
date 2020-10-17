@@ -27,13 +27,13 @@ Manuscript in progress
 ## Education
 
 #### Thomas Jefferson University
-MD/PhD Candidate, (anticipated 2026) - Neuroscience
+MD/PhD Neuroscience, (Anticipated 2026)
 
 #### University of Pennsylvania
 MS in Nonprofit and Nongovernmental Leadership, Class of 2018
 
 #### Swarthmore College
-BS Spec. Major in Astrophysics, Minor in Chemistry, Class of 2017
+BS Special Major in Astrophysics, Minor in Chemistry, Class of 2017
 
 ---
 
